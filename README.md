@@ -2,9 +2,16 @@
 
 ---
 
-# 박현욱입니다.
+# My Stats.
+## Name: 박현욱
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr1231&count_private=true) ![My BaekJoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr1112)
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdnr1231)
+---
+
+## **Contact Me**
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) : this_is_me_ <br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : 1231phw@gmail.com <br>
+---
 
 ## **I've Used...**
 > ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
