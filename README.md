@@ -4,8 +4,8 @@
 - **Age : 19**
 - **Live In Korea.**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr1231&count_private=true) ![My BaekJoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr1112)
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdnr1231)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr1231&count_private=true&show_icons=true) ![My BaekJoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr1112)
+<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdnr1231&layout=compact)
 ---
 
 ## **Contact Me**
