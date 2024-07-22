@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Welcome%20To%20My%20Page&fontSize=70&animation=fadeIn)
-## My Stats.
+## My Infomations.
 - **Name: 박현욱** <br>
 - **Age : 19** <br>
 - **Live In Korea.** <br>
