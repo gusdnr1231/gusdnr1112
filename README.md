@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Welcome%20To%20My%20Page&fontSize=70&animation=fadeIn)
 # My Stats.
-**Name: 박현욱**
-**Age : 19**
-**Live In Korea.**
+**Name: 박현욱** <br>
+**Age : 19** <br>
+**Live In Korea.** <br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr1231&count_private=true&show_icons=true)
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdnr1231&layout=compact) ![My BaekJoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr1112)
