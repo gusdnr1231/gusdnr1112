@@ -3,7 +3,7 @@
 ---
 
 # 박현욱입니다.
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr1231&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr1231&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdnr1231)
 
 ## **I've Used...**
 > ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
